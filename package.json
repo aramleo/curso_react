@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/aramleo/curso_react#readme",
   "dependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb": "^19.0.2",
     "parcel-bundler": "^1.12.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
