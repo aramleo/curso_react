@@ -1,0 +1,25 @@
+{
+  "name": "curso_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aramleo/curso_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aramleo/curso_react/issues"
+  },
+  "homepage": "https://github.com/aramleo/curso_react#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
