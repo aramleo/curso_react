@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 
 ReactDOM.render(
-  <div>Este es un curso de React principiantes</div>,
+  <App />,
   document.getElementById('root'),
 );
